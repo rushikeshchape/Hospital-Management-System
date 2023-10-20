@@ -17,4 +17,7 @@ Welcome to my student project, a Hospital Management System implemented with Spr
 -  Integrated Development Environment (IDE): Eclipse
 - Build Automation: Maven
 - Architecture: Model-View-Controller (MVC)
-###
+### API and Testing Tools:
+API Testing: Postman
+Code Simplification: Lombok
+API Documentation: Swagger
